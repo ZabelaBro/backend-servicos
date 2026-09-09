@@ -1,0 +1,2 @@
+export { Imovel } from './Imovel';
+
